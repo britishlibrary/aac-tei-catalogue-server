@@ -1,3 +1,5 @@
+# This private Github repo britishlibrary/aac-tei-catalogue-server began life as a Github import of the Bodleian's repo british_library/aac-tei-catalogue-server. The BL's extended version we are using to expriment with setting up a Hebrew catalogue alonside the existing Medieval (Western) catalogue
+
 # Experimental Catalogue Server
 
 This is an experimental replacement for the Blacklight setup used by the Bodleian Libraries for the following TEI catalogues:
