@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_46</field>
+      <field name="id">place_46</field>
+      <field name="title">.. שעל לשון ים מצרים</field>
+      <field name="alpha_title">ש</field>
+      <field name="pl_name_s">.. שעל לשון ים מצרים</field>
+      <field name="link_manuscripts_smni">/catalog/volume_4|MS. Heb. a. 2</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_48</field>
+      <field name="id">place_48</field>
+      <field name="title">Alexandria</field>
+      <field name="alpha_title">A</field>
+      <field name="pl_name_s">Alexandria</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+      <field name="link_manuscripts_smni">/catalog/volume_4|MS. Heb. a. 2</field>
+      <field name="link_manuscripts_smni">/catalog/volume_95|MS. Heb. d. 76</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_4</field>
+      <field name="id">place_4</field>
+      <field name="title">Avignon</field>
+      <field name="alpha_title">A</field>
+      <field name="pl_name_s">Avignon</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_297|MS. Canonici Or. 79</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_64</field>
+      <field name="id">place_64</field>
+      <field name="title">Baghdad</field>
+      <field name="alpha_title">B</field>
+      <field name="pl_name_s">Baghdad</field>
+      <field name="link_manuscripts_smni">/catalog/volume_106|MS. Heb. e. 105</field>
+      <field name="link_manuscripts_smni">/catalog/volume_183|MS. Heb. f. 26</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_83</field>
+      <field name="id">place_83</field>
+      <field name="title">Bombay</field>
+      <field name="alpha_title">B</field>
+      <field name="pl_name_s">Bombay</field>
+      <field name="link_manuscripts_smni">/catalog/volume_106|MS. Heb. e. 105</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_77</field>
+      <field name="id">place_77</field>
+      <field name="title">Caesarea</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_name_s">Caesarea</field>
+      <field name="link_manuscripts_smni">/catalog/volume_93|MS. Heb. d. 74</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_18</field>
+      <field name="id">place_18</field>
+      <field name="title">Cagli</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_name_s">Cagli</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_264|MS. Canonici Or. 49B</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_52</field>
+      <field name="id">place_52</field>
+      <field name="title">Cairo</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_name_s">Cairo</field>
+      <field name="link_manuscripts_smni">/catalog/volume_179|MS. Heb. f. 22</field>
+      <field name="link_manuscripts_smni">/catalog/volume_206|MS. Heb. f. 56</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_2</field>
+      <field name="id">place_2</field>
+      <field name="title">Carpentras (France)</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_name_s">Carpentras (France)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_408|MS. Oppenheim Add. 8° 14</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_8</field>
+      <field name="id">place_8</field>
+      <field name="title">Chios</field>
+      <field name="alpha_title">C</field>
+      <field name="pl_name_s">Chios</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_269|MS. Canonici Or. 53</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_79</field>
+      <field name="id">place_79</field>
+      <field name="title">Damascus</field>
+      <field name="alpha_title">D</field>
+      <field name="pl_name_s">Damascus</field>
+      <field name="link_manuscripts_smni">/catalog/volume_94|MS. Heb. d. 75</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_66</field>
+      <field name="id">place_66</field>
+      <field name="title">Damietta</field>
+      <field name="alpha_title">D</field>
+      <field name="pl_name_s">Damietta</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_3</field>
+      <field name="id">place_3</field>
+      <field name="title">Edmundbury</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_name_s">Edmundbury</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_352|MS. Laud Or. 174</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_55</field>
+      <field name="id">place_55</field>
+      <field name="title">Egypt</field>
+      <field name="alpha_title">E</field>
+      <field name="pl_name_s">Egypt</field>
+      <field name="link_manuscripts_smni">/catalog/volume_35|MS. Heb. c. 27</field>
+      <field name="link_manuscripts_smni">/catalog/volume_92|MS. Heb. d. 73</field>
+      <field name="link_manuscripts_smni">/catalog/volume_94|MS. Heb. d. 75</field>
+      <field name="link_manuscripts_smni">/catalog/volume_95|MS. Heb. d. 76</field>
+      <field name="link_manuscripts_smni">/catalog/volume_99|MS. Heb. d. 80</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_54</field>
+      <field name="id">place_54</field>
+      <field name="title">Fez</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_name_s">Fez</field>
+      <field name="link_manuscripts_smni">/catalog/volume_162|MS. Heb. e. 98</field>
+      <field name="link_manuscripts_smni">/catalog/volume_191|MS. Heb. f. 34</field>
+      <field name="link_manuscripts_smni">/catalog/volume_95|MS. Heb. d. 76</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_41</field>
+      <field name="id">place_41</field>
+      <field name="title">Fostat</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_name_s">Fostat</field>
+      <field name="pl_variant_sm">Fostat on the Nile</field>
+      <field name="pl_variant_sm">Fustat</field>
+      <field name="link_manuscripts_smni">/catalog/volume_11|MS. Heb. b. 13</field>
+      <field name="link_manuscripts_smni">/catalog/volume_158|MS. Heb. e. 94</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+      <field name="link_manuscripts_smni">/catalog/volume_162|MS. Heb. e. 98</field>
+      <field name="link_manuscripts_smni">/catalog/volume_206|MS. Heb. f. 56</field>
+      <field name="link_manuscripts_smni">/catalog/volume_25|MS. Heb. c. 13</field>
+      <field name="link_manuscripts_smni">/catalog/volume_4|MS. Heb. a. 2</field>
+      <field name="link_manuscripts_smni">/catalog/volume_73|MS. Heb. d. 48</field>
+      <field name="link_manuscripts_smni">/catalog/volume_94|MS. Heb. d. 75</field>
+      <field name="link_manuscripts_smni">/catalog/volume_95|MS. Heb. d. 76</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_23</field>
+      <field name="id">place_23</field>
+      <field name="title">Fürth (Bavaria, Germany)</field>
+      <field name="alpha_title">F</field>
+      <field name="pl_name_s">Fürth (Bavaria, Germany)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_16</field>
+      <field name="id">place_16</field>
+      <field name="title">Gubbio</field>
+      <field name="alpha_title">G</field>
+      <field name="pl_name_s">Gubbio</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_264|MS. Canonici Or. 49B</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_5</field>
+      <field name="id">place_5</field>
+      <field name="title">Günzburg (Germany)</field>
+      <field name="alpha_title">G</field>
+      <field name="pl_name_s">Günzburg (Germany)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_346|MS. Laud Or. 152</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_6</field>
+      <field name="id">place_6</field>
+      <field name="title">Huttenheim (Philippsburg, Germany)</field>
+      <field name="alpha_title">H</field>
+      <field name="pl_name_s">Huttenheim (Philippsburg, Germany)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_346|MS. Laud Or. 152</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_22</field>
+      <field name="id">place_22</field>
+      <field name="title">Ichenhausen (Germany)</field>
+      <field name="alpha_title">I</field>
+      <field name="pl_name_s">Ichenhausen (Germany)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_38</field>
+      <field name="id">place_38</field>
+      <field name="title">Jerusalem</field>
+      <field name="alpha_title">J</field>
+      <field name="pl_name_s">Jerusalem</field>
+      <field name="link_manuscripts_smni">/catalog/volume_25|MS. Heb. c. 13</field>
+      <field name="link_manuscripts_smni">/catalog/volume_62|MS. Heb. d. 36</field>
+      <field name="link_manuscripts_smni">/catalog/volume_93|MS. Heb. d. 74</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_69</field>
+      <field name="id">place_69</field>
+      <field name="title">Kahira near Fostat</field>
+      <field name="alpha_title">K</field>
+      <field name="pl_name_s">Kahira near Fostat</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_49</field>
+      <field name="id">place_49</field>
+      <field name="title">Kairowan</field>
+      <field name="alpha_title">K</field>
+      <field name="pl_name_s">Kairowan</field>
+      <field name="link_manuscripts_smni">/catalog/volume_37|MS. Heb. c. 50</field>
+      <field name="link_manuscripts_smni">/catalog/volume_4|MS. Heb. a. 2</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_33</field>
+      <field name="id">place_33</field>
+      <field name="title">Krakow</field>
+      <field name="alpha_title">K</field>
+      <field name="pl_name_s">Krakow</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_376|MS. Michael 619</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_17</field>
+      <field name="id">place_17</field>
+      <field name="title">Lucignana</field>
+      <field name="alpha_title">L</field>
+      <field name="pl_name_s">Lucignana</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_264|MS. Canonici Or. 49B</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_31</field>
+      <field name="id">place_31</field>
+      <field name="title">Macerata</field>
+      <field name="alpha_title">M</field>
+      <field name="pl_name_s">Macerata</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_10|MS. Kennicott 8</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_78</field>
+      <field name="id">place_78</field>
+      <field name="title">Narbonne</field>
+      <field name="alpha_title">N</field>
+      <field name="pl_name_s">Narbonne</field>
+      <field name="link_manuscripts_smni">/catalog/volume_203|MS. Heb. f. 48</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_36</field>
+      <field name="id">place_36</field>
+      <field name="title">Nuremberg (Germany)</field>
+      <field name="alpha_title">N</field>
+      <field name="pl_name_s">Nuremberg (Germany)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_356|MS. Laud Or. 269</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_63</field>
+      <field name="id">place_63</field>
+      <field name="title">Palestine</field>
+      <field name="alpha_title">P</field>
+      <field name="pl_name_s">Palestine</field>
+      <field name="pl_variant_sm">Palestine (ארץ ישראל)</field>
+      <field name="link_manuscripts_smni">/catalog/volume_183|MS. Heb. f. 26</field>
+      <field name="link_manuscripts_smni">/catalog/volume_89|MS. Heb. d. 66</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_24</field>
+      <field name="id">place_24</field>
+      <field name="title">Prague (Czech Republic)</field>
+      <field name="alpha_title">P</field>
+      <field name="pl_name_s">Prague (Czech Republic)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_7</field>
+      <field name="id">place_7</field>
+      <field name="title">Prostějov (Czech Republic)</field>
+      <field name="alpha_title">P</field>
+      <field name="pl_name_s">Prostějov (Czech Republic)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_346|MS. Laud Or. 152</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_61</field>
+      <field name="id">place_61</field>
+      <field name="title">Pumbeditha</field>
+      <field name="alpha_title">P</field>
+      <field name="pl_name_s">Pumbeditha</field>
+      <field name="link_manuscripts_smni">/catalog/volume_191|MS. Heb. f. 34</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_15</field>
+      <field name="id">place_15</field>
+      <field name="title">Rimini (Italy)</field>
+      <field name="alpha_title">R</field>
+      <field name="pl_name_s">Rimini (Italy)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_306|MS. Canonici Or. 87</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_35</field>
+      <field name="id">place_35</field>
+      <field name="title">Rome</field>
+      <field name="alpha_title">R</field>
+      <field name="pl_name_s">Rome</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_338|MS. Laud Or. 105</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_12</field>
+      <field name="id">place_12</field>
+      <field name="title">Saragossa</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_name_s">Saragossa</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_19|MS. Laud Or. 93</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_84</field>
+      <field name="id">place_84</field>
+      <field name="title">Siena</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_name_s">Siena</field>
+      <field name="link_manuscripts_smni">/catalog/volume_106|MS. Heb. e. 105</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_76</field>
+      <field name="id">place_76</field>
+      <field name="title">Sombat</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_name_s">Sombat</field>
+      <field name="link_manuscripts_smni">/catalog/volume_93|MS. Heb. d. 74</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_62</field>
+      <field name="id">place_62</field>
+      <field name="title">Spain</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_name_s">Spain</field>
+      <field name="link_manuscripts_smni">/catalog/volume_191|MS. Heb. f. 34</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_1</field>
+      <field name="id">place_1</field>
+      <field name="title">Ṣanʻāʼ (Yemen)</field>
+      <field name="alpha_title">S</field>
+      <field name="pl_name_s">Ṣanʻāʼ (Yemen)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_406|MS. Oppenheim Add. 4° 97a</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_14</field>
+      <field name="id">place_14</field>
+      <field name="title">Tanam (Yemen)</field>
+      <field name="alpha_title">T</field>
+      <field name="pl_name_s">Tanam (Yemen)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_401|MS. Oppenheim Add. 4° 124a</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_34</field>
+      <field name="id">place_34</field>
+      <field name="title">Ternopilʹ (Ukraine)</field>
+      <field name="alpha_title">T</field>
+      <field name="pl_name_s">Ternopilʹ (Ukraine)</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_452|MS. Reggio 36</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_39</field>
+      <field name="id">place_39</field>
+      <field name="title">Tiberias</field>
+      <field name="alpha_title">T</field>
+      <field name="pl_name_s">Tiberias</field>
+      <field name="link_manuscripts_smni">/catalog/volume_25|MS. Heb. c. 13</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_65</field>
+      <field name="id">place_65</field>
+      <field name="title">Tripoli</field>
+      <field name="alpha_title">T</field>
+      <field name="pl_name_s">Tripoli</field>
+      <field name="link_manuscripts_smni">/catalog/volume_43|MS. Heb. c. 56</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_80</field>
+      <field name="id">place_80</field>
+      <field name="title">Tyre</field>
+      <field name="alpha_title">T</field>
+      <field name="pl_name_s">Tyre</field>
+      <field name="link_manuscripts_smni">/catalog/volume_94|MS. Heb. d. 75</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_32</field>
+      <field name="id">place_32</field>
+      <field name="title">Venice</field>
+      <field name="alpha_title">V</field>
+      <field name="pl_name_s">Venice</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_362|MS. Laud Or. 314</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_43</field>
+      <field name="id">place_43</field>
+      <field name="title">Vitry</field>
+      <field name="alpha_title">V</field>
+      <field name="pl_name_s">Vitry</field>
+      <field name="link_manuscripts_smni">/catalog/volume_60|MS. Heb. d. 34</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_19</field>
+      <field name="id">place_19</field>
+      <field name="title">אגוביו</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אגוביו</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_264|MS. Canonici Or. 49B</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_67</field>
+      <field name="id">place_67</field>
+      <field name="title">Kaftor Island at the mouth of the Nile</field>
+      <field name="alpha_title">K</field>
+      <field name="pl_name_s">Kaftor Island at the mouth of the Nile</field>
+      <field name="pl_variant_sm">אי כפתור at the mouth of the Nile</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_10</field>
+      <field name="id">place_10</field>
+      <field name="title">אייכישלן</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אייכישלן</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_395|MS. Oppenheim 248</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_9</field>
+      <field name="id">place_9</field>
+      <field name="title">אייסרליץ</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אייסרליץ</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_395|MS. Oppenheim 248</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_25</field>
+      <field name="id">place_25</field>
+      <field name="title">איכהוזן</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">איכהוזן</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_56</field>
+      <field name="id">place_56</field>
+      <field name="title">אלמעאינה</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אלמעאינה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_121|MS. Heb. e. 32</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_82</field>
+      <field name="id">place_82</field>
+      <field name="title">אלפסטאט</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אלפסטאט</field>
+      <field name="link_manuscripts_smni">/catalog/volume_94|MS. Heb. d. 75</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_74</field>
+      <field name="id">place_74</field>
+      <field name="title">אלקדס</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אלקדס</field>
+      <field name="link_manuscripts_smni">/catalog/volume_93|MS. Heb. d. 74</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_53</field>
+      <field name="id">place_53</field>
+      <field name="title">אשקלון דעל גב ימא רבא מותבה</field>
+      <field name="alpha_title">א</field>
+      <field name="pl_name_s">אשקלון דעל גב ימא רבא מותבה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_162|MS. Heb. e. 98</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_70</field>
+      <field name="id">place_70</field>
+      <field name="title">בזוילה אלמהדיה</field>
+      <field name="alpha_title">ב</field>
+      <field name="pl_name_s">בזוילה אלמהדיה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_68</field>
+      <field name="id">place_68</field>
+      <field name="title">בלביס</field>
+      <field name="alpha_title">ב</field>
+      <field name="pl_name_s">בלביס</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_59</field>
+      <field name="id">place_59</field>
+      <field name="title">דאר בן לפאחה</field>
+      <field name="alpha_title">ד</field>
+      <field name="pl_name_s">דאר בן לפאחה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_158|MS. Heb. e. 94</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_45</field>
+      <field name="id">place_45</field>
+      <field name="title">חנס מצרים</field>
+      <field name="alpha_title">ח</field>
+      <field name="pl_name_s">חנס מצרים</field>
+      <field name="link_manuscripts_smni">/catalog/volume_4|MS. Heb. a. 2</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_30</field>
+      <field name="id">place_30</field>
+      <field name="title">לה קרוניא</field>
+      <field name="alpha_title">ל</field>
+      <field name="pl_name_s">לה קרוניא</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_2|MS. Kennicott 1</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_20</field>
+      <field name="id">place_20</field>
+      <field name="title">לוציניאה</field>
+      <field name="alpha_title">ל</field>
+      <field name="pl_name_s">לוציניאה</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_264|MS. Canonici Or. 49B</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_26</field>
+      <field name="id">place_26</field>
+      <field name="title">ליכטנשטאט</field>
+      <field name="alpha_title">ל</field>
+      <field name="pl_name_s">ליכטנשטאט</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_44</field>
+      <field name="id">place_44</field>
+      <field name="title">מדינת ברקה</field>
+      <field name="alpha_title">מ</field>
+      <field name="pl_name_s">מדינת ברקה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_4|MS. Heb. a. 2</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_42</field>
+      <field name="id">place_42</field>
+      <field name="title">מעזיה אלקאהרה</field>
+      <field name="alpha_title">מ</field>
+      <field name="pl_name_s">מעזיה אלקאהרה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_25|MS. Heb. c. 13</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_73</field>
+      <field name="id">place_73</field>
+      <field name="title">סומבאט</field>
+      <field name="alpha_title">ס</field>
+      <field name="pl_name_s">סומבאט</field>
+      <field name="link_manuscripts_smni">/catalog/volume_93|MS. Heb. d. 74</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_13</field>
+      <field name="id">place_13</field>
+      <field name="title">סרקוסא</field>
+      <field name="alpha_title">ס</field>
+      <field name="pl_name_s">סרקוסא</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_327|MS. Huntington 299</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_27</field>
+      <field name="id">place_27</field>
+      <field name="title">פיורדא</field>
+      <field name="alpha_title">פ</field>
+      <field name="pl_name_s">פיורדא</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_28</field>
+      <field name="id">place_28</field>
+      <field name="title">פלון</field>
+      <field name="alpha_title">פ</field>
+      <field name="pl_name_s">פלון</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_29</field>
+      <field name="id">place_29</field>
+      <field name="title">פראג</field>
+      <field name="alpha_title">פ</field>
+      <field name="pl_name_s">פראג</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_354|MS. Laud Or. 233</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_37</field>
+      <field name="id">place_37</field>
+      <field name="title">צוען</field>
+      <field name="alpha_title">צ</field>
+      <field name="pl_name_s">צוען</field>
+      <field name="link_manuscripts_smni">/catalog/volume_69|MS. Heb. d. 44</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_21</field>
+      <field name="id">place_21</field>
+      <field name="title">קאלי</field>
+      <field name="alpha_title">ק</field>
+      <field name="pl_name_s">קאלי</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_264|MS. Canonici Or. 49B</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_75</field>
+      <field name="id">place_75</field>
+      <field name="title">קיסאריה</field>
+      <field name="alpha_title">ק</field>
+      <field name="pl_name_s">קיסאריה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_93|MS. Heb. d. 74</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_57</field>
+      <field name="id">place_57</field>
+      <field name="title">קסיא</field>
+      <field name="alpha_title">ק</field>
+      <field name="pl_name_s">קסיא</field>
+      <field name="link_manuscripts_smni">/catalog/volume_99|MS. Heb. d. 80</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_11</field>
+      <field name="id">place_11</field>
+      <field name="title">קעלין</field>
+      <field name="alpha_title">ק</field>
+      <field name="pl_name_s">קעלין</field>
+      <field name="link_manuscripts_smni">/catalog/manuscript_395|MS. Oppenheim 248</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_58</field>
+      <field name="id">place_58</field>
+      <field name="title">קצר אלשמע</field>
+      <field name="alpha_title">ק</field>
+      <field name="pl_name_s">קצר אלשמע</field>
+      <field name="link_manuscripts_smni">/catalog/volume_158|MS. Heb. e. 94</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_72</field>
+      <field name="id">place_72</field>
+      <field name="title">רמלה</field>
+      <field name="alpha_title">ר</field>
+      <field name="pl_name_s">רמלה</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_40</field>
+      <field name="id">place_40</field>
+      <field name="title">רקת</field>
+      <field name="alpha_title">ר</field>
+      <field name="pl_name_s">רקת</field>
+      <field name="link_manuscripts_smni">/catalog/volume_25|MS. Heb. c. 13</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_71</field>
+      <field name="id">place_71</field>
+      <field name="title">תם בית אלוסט</field>
+      <field name="alpha_title">ת</field>
+      <field name="pl_name_s">תם בית אלוסט</field>
+      <field name="link_manuscripts_smni">/catalog/volume_15|MS. Heb. b. 3</field>
+   </doc>
+   <doc>
+      <field name="type">place</field>
+      <field name="pk">place_81</field>
+      <field name="id">place_81</field>
+      <field name="title">תניס</field>
+      <field name="alpha_title">ת</field>
+      <field name="pl_name_s">תניס</field>
+      <field name="link_manuscripts_smni">/catalog/volume_94|MS. Heb. d. 75</field>
+   </doc>
+</add>

@@ -1,0 +1,138 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div id="static-page">
+        <h2>Help</h2>
+        <p>
+    This page provides information on searching and browsing the catalogue. For information on how to order material,
+    please see the
+    <a href="https://www.bodleian.ox.ac.uk/collections-and-resources/special-collections/ordering" target="_blank">Order
+      special collections</a> page.
+  </p>
+
+  <h3>Browsing</h3>
+
+  <p>
+    You can browse the catalogue by clicking on the following buttons:
+  </p>
+  <ul>
+    <li>
+      Manuscripts (or volumes of fragments, identified by their classmarks/shelfmarks)
+    </li>
+    <li>
+      Works
+    </li>
+    <li>
+      People (personal names of authors, translators, copyists, etc.)
+    </li>
+    <li>
+      Places
+    </li>
+  </ul>
+  <p>
+    Results can be filtered using the "Limit results by" options on the left, such as by
+    language, century (in the Gregorian calendar), or role (for people).
+  </p>
+
+  <h3>Searching</h3>
+
+  <p>
+    For a simple search, type your query into the search box at the top of every page and press
+    enter. You can then filter your search results as explained above.
+  </p>
+  <p>
+    To search for something specific click one of the four buttons - manuscripts, works, people
+    or places - then enter your search terms.
+  </p>
+
+  <h3>Search tips</h3>
+
+  <p>
+    Search terms can be entered in all languages and scripts present in the records. For
+    searching in Roman script please use the <a
+    href="https://www.loc.gov/catdir/cpso/roman.html" target="_blank">LC transliteration standard</a>.
+    Diacritical signs may be omitted. For example, instead of <i>Hafṭarot</i> you can search for
+    <i>Haftarot</i>.
+  </p>
+  <p>
+    You can use additional formatting to more precisely define your search query. These
+    include:
+  </p>
+
+  <ul>
+    <li>
+      <p>
+        Quotation marks (")
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can place quotation marks around multiple words so that only that specific phrase will be found.
+            Anonymous
+            commentaries (without quotes) produces many more results than "Astronomical tables" (with quotes)
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        AND / OR
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can combine words into groups using AND, OR and brackets. AND is used as default when nothing is
+            specified.
+            AND and OR must be capitilised for this to work.
+            For example you could search for Barocci AND (Aristotle OR Plato) which will find only records with Barocci
+            in
+            and at least one of Aristotle or Plato in.
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        Plus (+) / Minus (-)
+      </p>
+      <ul>
+        <li>
+          <p>
+            With the plus and minus you can define which phrasesmust be found and those which must not be found.
+            The plus is default. For example geomancy -astrology will return everything with the word geomancy but not
+            the
+            word astrology.
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        Wildcards (*,?)
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can use wildcard values to match only part of words. A question mark (?) will match a single character
+            while the asterisk (*) will match one or more characters. A search for astro* will match words like
+            "astronomy", "astrological" and "astrology"
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        Combinations
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can combine all the above options into a single query, such as: astro* -astrology which finds every
+            starting with "astro" but excluding "astrology"
+          </p>
+        </li>
+      </ul>
+    </li>
+  </ul>
+    </div>
+{% endblock %}
