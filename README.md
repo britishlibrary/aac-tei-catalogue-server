@@ -1,6 +1,6 @@
 # Extended Catalogue Server
 
-## This private Github repo britishlibrary/aac-tei-catalogue-server began life as a Github import of the Bodleian's repo [british_library/aac-tei-catalogue-serve](https://github.com/msDesc/catalogue_server). The BL's version is being used by Julian Cook to experiment with setting up a Hebrew catalogue alongside the existing Medieval (Western) catalogue - doing is this in a test environment, for demonstration purposes only.
+## This private Github repo britishlibrary/aac-tei-catalogue-server began life as a Github import of the Bodleian's repo [british_library/aac-tei-catalogue-server](https://github.com/msDesc/catalogue_server). The BL's version is being used by Julian Cook to experiment with setting up a Hebrew catalogue alongside the existing Medieval (Western) catalogue - doing is this in a test environment, for demonstration purposes only.
 
 ## ...
 
