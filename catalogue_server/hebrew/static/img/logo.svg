@@ -1,62 +1,81 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 236 80"
-   style="enable-background:new 0 0 236 80;"
-   xml:space="preserve"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.2 (56b05e47e7, 2022-06-09, custom)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs336"><rect
-     x="2.5615564"
-     y="2.9726636"
-     width="230.88821"
-     height="74.05216"
-     id="rect352" /></defs><sodipodi:namedview
-   id="namedview334"
-   pagecolor="#ffffff"
-   bordercolor="#000000"
-   borderopacity="0.25"
-   inkscape:showpageshadow="2"
-   inkscape:pageopacity="0.0"
-   inkscape:pagecheckerboard="0"
-   inkscape:deskcolor="#d1d1d1"
-   showgrid="false"
-   inkscape:zoom="5.2711864"
-   inkscape:cx="109.17846"
-   inkscape:cy="40.123794"
-   inkscape:window-width="1920"
-   inkscape:window-height="1021"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-
-<text
-   xml:space="preserve"
-   id="text350"
-   style="font-size:32px;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;white-space:pre;shape-inside:url(#rect352);display:inline;fill:#ffffff"
-   transform="translate(-0.00141264,16.373685)"><tspan
-     x="10.365234"
-     y="31.796798"
-     id="tspan2747">Catalogue logo</tspan></text><rect
-   style="fill:none"
-   id="rect2001"
-   width="99.702309"
-   height="57.825226"
-   x="52.636028"
-   y="7.4599552" /><rect
-   style="fill:none;stroke:#ffffff;stroke-opacity:1"
-   id="rect2003"
-   width="235.87329"
-   height="79.481804"
-   x="-0.098791979"
-   y="0.04497835" /></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 220.3 83.3" style="enable-background:new 0 0 220.3 83.3;" xml:space="preserve">
+<image style="overflow:visible;" width="221" height="83" xlink:href="data:image/png;base64,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
+6l7BlpO+AAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 -1 0)">
+</image>
+</svg>

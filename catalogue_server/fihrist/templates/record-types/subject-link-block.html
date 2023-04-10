@@ -1,0 +1,11 @@
+{% if record.link_subjects_smni %}
+    <dt>Subjects </dt>
+    <dd>
+        <ul>
+            {% for subject in record.link_subject_smni %}
+                {% set details = subject.split("|") %}
+                <li><a href="{{ details[0] }}">{{ details[1] }}</a></li>
+            {% endfor %}
+        </ul>
+    </dd>
+{% endif %}

@@ -1,0 +1,145 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div id="static-page">
+        <h2>Help</h2>
+
+  <p>
+    This page provides information on searching and browsing the catalogue. For information on how to order material,
+    please refer to the websites of individual institutions. For example, for Oxford University manuscripts see their
+    <a href="https://www.bodleian.ox.ac.uk/collections-and-resources/special-collections/ordering" target="_blank">Order
+      special collections</a> page.
+  </p>
+
+  <h3>Browsing</h3>
+
+  <p>
+    You can browse the catalogue by clicking on the following buttons:
+  </p>
+  <ul>
+    <li>
+      Classmarks (manuscripts and other objects, identified by their shelfmarks)
+    </li>
+    <li>
+      Works
+    </li>
+    <li>
+      People (personal names of authors, translators, copyists, etc.)
+    </li>
+    <li>
+      Subjects (Library of Congress Subject Headings identified during cataloguing)
+    </li>
+  </ul>
+  <p>
+    Browsing by institution can be accomplished using links on the home page, or by using filters
+    when browsing either classmarks and works.
+  </p>
+  <p>
+    Results can also be filtered in other ways using the "Limit results by" options on the left, such as by
+    language, century (in the Gregorian calendar), or role (for people).
+  </p>
+
+  <h3>Searching</h3>
+
+  <p>
+    For a simple search, type your query into the search box at the top of
+    every page and press enter. You can then filter your search results as explained above.
+  </p>
+  <p>
+    To search for something specific click one of the four buttons - classmarks, works, people or
+    subjects - then enter your search terms.
+  </p>
+
+  <h3>Search tips</h3>
+
+  <p>
+    Search terms can be entered in all languages and scripts present in the records. For
+    searching in Roman script please use the <a
+    href="https://www.loc.gov/catdir/cpso/roman.html" target="_blank">LC transliteration standard</a>.
+    Diacritical signs may be omitted. For example, instead of <i>Jawāmiʻ al-kalimāt</i> you can search for
+    <i>Jawami al-kalimat</i>.
+  </p>
+  <p>
+    You can use additional formatting to more precisely define your search query. These
+    include:
+  </p>
+  <ul>
+    <li>
+      <p>
+        Quotation marks (")
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can place quotation marks around multiple words so that only that specific
+            phrase will be found. <i>Astronomical tables</i> (without quotes) produces many
+            more results than <i>"Astronomical tables"</i> (with quotes)
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        AND / OR
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can combine words into groups using AND, OR and brackets. AND is used as
+            default when nothing is specified. AND and OR must be capitilised for this to work.
+            For example you could search for <i>Saʻdī AND (Divan OR Diwan)</i> which will find
+            only records which contain Saʻdī and either Divan or Diwan (or all three).
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        Plus (+) / Minus (-)
+      </p>
+      <ul>
+        <li>
+          <p>
+            With the plus and minus you can define which phrasesmust be found and those
+            which must not be found. The plus is default. For example <i>geomancy
+            -astrology</i> will return everything with the word geomancy but not the
+            word astrology.
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        Wildcards (*,?)
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can use wildcard values to match only part of words. A question mark (?)
+            will match a single character while the asterisk (*) will match one or more
+            characters. A search for <i>astro*</i> will match words like astronomy,
+            astrological and astrology. Generally, you don't have use wildcards to account for
+            plural/singular versions, and other common forms of English words, so
+            searching for <i>commentary</i> also matches the word commentaries, and vice
+            versa.
+          </p>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <p>
+        Combinations
+      </p>
+      <ul>
+        <li>
+          <p>
+            You can combine all the above options into a single query, such as: <i>astro*
+            -astrology</i> which will find everything containing words starting with
+            astro but not containing the whole word astrology.
+          </p>
+        </li>
+      </ul>
+    </li>
+  </ul>
+    </div>
+{% endblock %}
